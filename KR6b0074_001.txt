@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:35.053567
+#+DATE: 2015-08-30 19:36:35.664661
 #+TITLE: 譬喻經
 #+PROPERTY: CBETA_ID T04n0217
 #+PROPERTY: ID KR6b0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 217
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6b0074_T_001-0801b> 
 #+PROPERTY: JUAN 1
 ¶
-No.217¶
-
- 佛說譬喻經¶
+No. 217¶
+佛說譬喻經¶
 ¶
-大唐三藏法師義淨譯¶
+唐三藏法師義淨奉詔譯¶
 
 如是我聞：
 
@@ -26,7 +25,7 @@ No.217¶
 走無依，見一空井，傍有樹根，即尋根下，潛¶
 身井中。有黑白二鼠，互齧樹根；於井四邊¶
 有四毒蛇，欲螫其人；下有毒龍。心畏龍蛇¶
-恐樹根斷。樹根蜂蜜，五滴墮口，樹搖蜂散，¶
+恐樹根斷。樹有蜂蜜，五滴墮口，樹搖蜂散，¶
 下螫斯人，野火復來，燒然此樹。」
 
 王曰：「是人¶
